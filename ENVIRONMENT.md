@@ -30,3 +30,7 @@ print("Hello World")
 ```
 - Atidaryk naują terminalo langą *Terminal > New Terminal*
 - Terminale rašyk `py hello.py` ir spausk *Enter*
+
+<br> 
+
+### Kaip paleisti kodą jau žinome, o dabar laikas Vibecodin'ti! 👨‍💻👨
