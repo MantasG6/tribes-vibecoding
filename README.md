@@ -5,6 +5,8 @@ Sveiki, Įkūrėjai! 🔥
 
 **Vibecoding** - Programavimas beveik pilnai pasitikint LLM pokalbių robotu. Programuotojas duoda užklausas pokalbių robotui, kuris sugeneruoja kodą pagal nurodytus reikalavimus. Tuomet programuotojas įterpią kodą į savo aplinką ir jį ištestuoja, patikrina ar viskas veikia pagal reikalavimus. Programuojant tokiu būdu programuotojui nereikalingos gilios programavimo žinios, viskas ko reikia - suprasti kaip paleisti kodą.
 
+[Instrukcijos](./CHATBOT_INSTRUCTIONS.md) kaip efektyviau vibecodin'ti
+
 Programavimui naudosime **Python** 🐍 programavimo kalbą.  
 
 Įdiegti Python galite naudojantis [diegimo instrukcijomis](./ENVIRONMENT.md)
